@@ -12,14 +12,14 @@ github_repo: "https://github.com/ChocoYvan/ChocoYvan.github.io.git" # you code r
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: img/avatar-m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: img/touxiang.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-zhihu_username:     巧不巧克力
+weibo_username:     Yvan_彥锋
+zhihu_username:     timeless-3-6/activities
 github_username:    ChocoYvan
 #facebook_username:  ChocoYvan
 jianshu_username:   f38411e8b24f
