@@ -11,7 +11,7 @@ github_repo: "https://github.com/ChocoYvan/ChocoYvan.github.io.git" # you code r
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "软件工程科班出身，喜欢玩数据和编程，也喜欢读书和吉他，组过一只很棒的乐队——WeShall乐队，生活的乐趣在于分享，一起交流进步吧！^_^."
 sidebar-avatar: img/touxiang.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
