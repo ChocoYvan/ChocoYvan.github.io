@@ -261,4 +261,20 @@ layout: default
         }
     }
 </style>
+
+<div id="gitmentContainer"></div>
+<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+<script>
+var gitment = new Gitment({
+    owner: 'ChocoYvan',
+    repo: 'ChocoYvan.github.io',
+    oauth: {
+        client_id: '023d2eb04047a0129ad6',
+        client_secret: '4335110025f80446906289f86f722f7a9f515d8d',
+    },
+});
+gitment.render('gitmentContainer');
+</script>
+
 {% endif %}
