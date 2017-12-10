@@ -7,7 +7,7 @@ author:     巧不巧克力/ChocoYvan
 header-img: img/host_bg_data.jpg
 catalog: true
 tags:
-    - python
+    - Python
     - 数据分析
 ---
 
